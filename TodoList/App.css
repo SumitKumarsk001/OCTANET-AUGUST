@@ -1,0 +1,17 @@
+.kg-row{
+  margin-top: 2px;
+}
+.kg-button{
+  min-width: 80px;
+  margin-bottom: 6px;
+}
+body{
+  background-color: black;
+  padding:60px;
+}
+.todo-container{
+  border: 2px solid gray;
+  border-radius: 1rem;
+  background-color: azure;
+  
+}
